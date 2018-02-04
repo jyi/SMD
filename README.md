@@ -7,6 +7,12 @@ Software Metric tool for Defect prediction
 
 ### Process metrics ###
 
+## How to use SMD ##
+
+### Code metrics ###
+
+### Process metrics ###
+
 ## Contributors ##
 
 Developers:
