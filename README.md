@@ -6,3 +6,10 @@ Software Metric tool for Defect prediction
 ### Code metrics ###
 
 ### Process metrics ###
+
+## Contributors ##
+
+Developers:
+
+* Bulat Gabdrakhmanov
+* Aleksey Tolkachev
