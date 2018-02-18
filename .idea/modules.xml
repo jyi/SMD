@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smd-code-metrics.iml" filepath="$PROJECT_DIR$/.idea/modules/smd-code-metrics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smd-code-metrics_main.iml" filepath="$PROJECT_DIR$/.idea/modules/smd-code-metrics_main.iml" group="smd-code-metrics" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smd-code-metrics_test.iml" filepath="$PROJECT_DIR$/.idea/modules/smd-code-metrics_test.iml" group="smd-code-metrics" />
+    </modules>
+  </component>
+</project>
