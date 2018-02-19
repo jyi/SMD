@@ -1,6 +1,6 @@
 {
     "file_ext": ".java",
-    "git_link": "lol",
+    "git_link": "https://github.com/apache/camel.git",
     "input_releases": [
         "camel-1.4.0",
         "camel-1.6.0"

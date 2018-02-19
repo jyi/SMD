@@ -1,11 +1,10 @@
 import subprocess
-from datetime import datetime
 import collections
 
 
 class GitProject:
     def __init__(self, work_dir):
-        # project and file locations
+        # project location
         self.work_dir = work_dir
         self.releases = collections.OrderedDict()
 
@@ -16,10 +15,8 @@ class GitProject:
                                    stdout=subprocess.PIPE, stdin=subprocess.PIPE)
         output = process.communicate()[0]
         output = output.decode()
-        # print(output)
         output = output.split("\n")
         releases = collections.OrderedDict()
-        # HEAD message?
         for release in output[1:]:
             kv = release.split(" tag: ")
             # skip empty tags
@@ -29,7 +26,7 @@ class GitProject:
                     releases[tag] = kv[0]
             elif len(kv) == 2:
                 releases[kv[1]] = kv[0]
-        releases["HEAD"] = datetime.today().strftime("%a %b %d %H:%M:%S %Y") + " +0300"
+        #releases["HEAD"] = datetime.today().strftime("%a %b %d %H:%M:%S %Y") + " +0300"
         return releases
 
     def git_clone(self, github_link):
