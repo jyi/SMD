@@ -1,0 +1,10 @@
+{
+    "file_ext": ".java",
+    "git_link": "https://github.com/apache/camel.git",
+    "input_releases": [
+        "camel-1.4.0",
+        "camel-1.6.0"
+    ],
+    "result_file_path": "last_camel_140_160.csv",
+    "work_dir": "/home/lwm/camel"
+}
