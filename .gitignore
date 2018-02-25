@@ -1,0 +1,7 @@
+code_metrics/out/*
+code_metrics/build/*
+code_metrics/.gradle/*
+code_metrics/.idea/workspace.xml
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar

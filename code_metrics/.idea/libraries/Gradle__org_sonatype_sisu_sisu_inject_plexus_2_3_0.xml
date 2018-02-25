@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.sonatype.sisu:sisu-inject-plexus:2.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sonatype.sisu/sisu-inject-plexus/2.3.0/7d8ecdce497bf361b83cfbc890670ca50d6ec299/sisu-inject-plexus-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sonatype.sisu/sisu-inject-plexus/2.3.0/3238b76e583a52d0793cc1b3d248b0e2c5597ef0/sisu-inject-plexus-2.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

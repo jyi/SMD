@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.antlr:antlr4-maven-plugin:4.7.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4-maven-plugin/4.7.1/95f17393d3fcce768ce9054b3d840464e8a839d0/antlr4-maven-plugin-4.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4-maven-plugin/4.7.1/ce438f58d17add0cd00c2e91d37a1b8e0c7e1493/antlr4-maven-plugin-4.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
