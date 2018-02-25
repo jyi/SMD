@@ -5,6 +5,11 @@ Software Metric tool for Defect prediction
 
 ### Code metrics ###
 
+JRE >= 1.8 is required to run SMD.
+
+You can download binary distribution from [https://github.com/jyi/SMD/releases](https://github.com/jyi/SMD/releases),    
+In order to build from sources you need [gradle build tool](https://gradle.org/). Type `gradle fatJar` in a command line.
+
 ### Process metrics ###
 
 SMD uses Python with version greater or equal 3.5 to launch Process metrics sub-module.
@@ -12,6 +17,11 @@ SMD uses Python with version greater or equal 3.5 to launch Process metrics sub-
 ## How to use SMD ##
 
 ### Code metrics ###
+
+To collect code metrics run from a command line:    
+`java -jar smd.jar [Path_to_project] [Path_to_folder_with_csv_output]`
+
+Second argument is optional.
 
 ### Process metrics ###
 
