@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.sonatype.sisu:sisu-inject-bean:2.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sonatype.sisu/sisu-inject-bean/2.3.0/4767ee22f0b84fc0fe3af2095c30bfbdafba9459/sisu-inject-bean-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sonatype.sisu/sisu-inject-bean/2.3.0/55d37b7ac7d0e5163277c9e03bff5dd86fe27017/sisu-inject-bean-2.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
