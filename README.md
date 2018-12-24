@@ -36,9 +36,17 @@ It should contain the following information:
 After config file creation you need to run following command to start collecting process.   
 `python3 [../process_metrics/launcher.py] [path_to_json_config_file]`
 
+## Publications ##
+
+** SMD: An Open-Source Software Metric Tool for Defect Prediction, Its Case Study and Lessons We Learned ** Bulat Gabdrakhmanov, Aleksey Tolkachev, Giancarlo Succi, and Jooyong Yi
+
 ## Contributors ##
 
 Developers:
 
 * Bulat Gabdrakhmanov
 * Aleksey Tolkachev
+
+Principal investigator:
+
+* Jooyong Yi
