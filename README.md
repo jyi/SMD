@@ -38,7 +38,7 @@ After config file creation you need to run following command to start collecting
 
 ## Publications ##
 
-**SMD: An Open-Source Software Metric Tool for Defect Prediction, Its Case Study and Lessons We Learned.** Bulat Gabdrakhmanov, Aleksey Tolkachev, Giancarlo Succi, and Jooyong Yi
+**SMD: An Open-Source Software Metric Tool for Defect Prediction, Its Case Study and Lessons We Learned.** Bulat Gabdrakhmanov, Aleksey Tolkachev, Giancarlo Succi, and Jooyong Yi. SEDA'18
 
 ## Contributors ##
 
